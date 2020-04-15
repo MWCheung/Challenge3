@@ -1,3 +1,5 @@
+CHALLENGE 3:
+
 Ik heb gebruik gemaakt van API Mapbox, die in de les werd behandeld.
 Verder heb ik gebruik gemaakt van de website WeatherWidget.io. 
 Officieel is dit geen API, maar gewoon simpele programmeerwerk.
